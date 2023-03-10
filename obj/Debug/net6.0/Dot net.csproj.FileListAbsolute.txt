@@ -1,0 +1,21 @@
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\bin\Debug\net6.0\appsettings.json
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\bin\Debug\net6.0\Dot net.exe
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\bin\Debug\net6.0\Dot net.deps.json
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\bin\Debug\net6.0\Dot net.runtimeconfig.json
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\bin\Debug\net6.0\Dot net.dll
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\bin\Debug\net6.0\Dot net.pdb
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\obj\Debug\net6.0\Dot net.csproj.AssemblyReference.cache
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\obj\Debug\net6.0\Dot net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\obj\Debug\net6.0\Dot net.AssemblyInfoInputs.cache
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\obj\Debug\net6.0\Dot net.AssemblyInfo.cs
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\obj\Debug\net6.0\Dot net.csproj.CoreCompileInputs.cache
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\obj\Debug\net6.0\Dot net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\obj\Debug\net6.0\scopedcss\bundle\Dot net.styles.css
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\obj\Debug\net6.0\Dot net.dll
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\obj\Debug\net6.0\refint\Dot net.dll
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\obj\Debug\net6.0\Dot net.pdb
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\obj\Debug\net6.0\Dot net.genruntimeconfig.cache
+C:\Users\srkay\OneDrive\Área de Trabalho\Dot net\obj\Debug\net6.0\ref\Dot net.dll
